@@ -12,10 +12,10 @@ The AI-Based Language Translator is a Python desktop application that enables re
 🖥️ User-friendly GUI built with Tkinter.
 
 ⚠️ Smart error handling for speech, translation, and audio issues.
-Technologies Used
+
+## Technologies Used
 
 Language: Python
-
 Libraries: Tkinter, SpeechRecognition, GoogleTrans, gTTS, os
 
 APIs: Google Speech Recognition, Google Translate, Google Text-to-Speech
