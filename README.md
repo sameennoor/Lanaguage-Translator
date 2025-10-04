@@ -1,7 +1,7 @@
 # AI Based Language Translator App
 ## Project Overview
 The AI-Based Language Translator is a Python desktop application that enables real-time translation of spoken language into another language. It combines speech recognition, language translation, and text-to-speech to create a seamless communication experience.
-⚙️ ## Features
+## Features
 
 🎤 Speech-to-text conversion using Google Speech Recognition.
 
